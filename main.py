@@ -1,3 +1,1 @@
-working on it
-..
-  .m,.h
+working for while planning stage
